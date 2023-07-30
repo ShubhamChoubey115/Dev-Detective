@@ -23,7 +23,7 @@ const user_location = get("location");
 const page = get("page");
 const twitter = get("twitter");
 const company = get("company");
-let darkMode = false;
+let darkMode = true;
 
 // Event Listeners
 btnsubmit.addEventListener("click", function () {
